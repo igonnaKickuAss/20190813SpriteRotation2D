@@ -199,6 +199,11 @@ namespace OLiOYouxi
             return ApplyRotation(_newColorArr);
         }
 
+        /// <summary>
+        /// 应用该纹理
+        /// </summary>
+        /// <param name="newColorArr"></param>
+        /// <returns></returns>
         private Sprite ApplyRotation(Color32[] newColorArr)
         {
             _newTexture.SetPixels32(newColorArr);
