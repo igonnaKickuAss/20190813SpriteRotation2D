@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Demo/SpriteRotation2D/Scenes/20190813.unity
+  isLoaded: 1
+  isActive: 1
